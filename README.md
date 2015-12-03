@@ -1,3 +1,6 @@
 # Opencart-Newsletter
-# All right Reserved By Dixit Shah. For Query Contact on dixit0611@gmail.com.
-Opencart newsletter with position,import newsletter email,export newsletter email,Add delete or mange all email using one newsletter.
+Opencart newsletter Module with Different Position.
+Newsletter Module Bulk Email Upload option.
+Newsletter Module Import Email from csv file.
+Newsletter Module Using Ajax.
+Admin add,delete Email option from admin.
